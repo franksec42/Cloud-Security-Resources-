@@ -13,8 +13,8 @@ Please quote the author :) be kind
 
 
 # Name - CloudSplaining 
-# Resource - IAM
-# Platform - AWS
+Resource - IAM
+Platform - AWS
 
 Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized HTML report with a triage worksheet. https://cloudsplaining.readthedocs.io/
 
@@ -22,8 +22,8 @@ Link: https://github.com/salesforce/cloudsplaining.git
 ----
 
 # Name - Sentinel Hashicoper Terraform Template 
-# Resource - Terraform, CIS
-# Platform - AWS
+Resource - Terraform, CIS
+Platform - AWS
 
 Sentinel is a language and framework for policy built to be embedded in existing software to enable fine-grained, logic-based policy decisions. This repository contains a library of Sentinel policies, developed by HashiCorp, that can be consumed directly within the Terraform Cloud platform.
 
